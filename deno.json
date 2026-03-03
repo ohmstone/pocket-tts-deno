@@ -1,0 +1,10 @@
+{
+  "nodeModulesDir": "auto",
+  "imports": {
+    "ort": "npm:onnxruntime-node@1.20.0",
+    "module": "node:module"
+  },
+  "tasks": {
+    "serve": "deno run --allow-read --allow-net --allow-sys --allow-ffi --allow-env server.ts"
+  }
+}
