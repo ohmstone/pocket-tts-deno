@@ -1,5 +1,8 @@
 # Pocket TTS — Deno Server Design
 
+[Main repo](https://codeberg.org/ohmstone/pocket-tts-deno)
+[Mirror](https://github.com/ohmstone/pocket-tts-deno)
+
 ## Overview
 
 This project is a Deno server port of
